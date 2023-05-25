@@ -1,0 +1,73 @@
+
+.custom-link {
+    text-decoration: none;
+  }
+  
+  .logo{
+    color: #FFFFFF;
+    texr-decoration:none;
+  }
+ 
+  
+.flightContainer {
+    width: 500px;
+    height :400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    margin-top:0px;
+    background-color:#CCE3DE ;
+  }
+  
+  
+  .flightHeading{
+    font-size: 30px;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-top:10px;
+    color:#6B9080 ;
+  }
+  
+  .flight-form {
+    display: flex;
+    flex-direction: column;
+
+  }
+label {
+    /* Other styling... */
+    text-align: right;
+    clear: both;
+    float:left;
+    margin-right:15px;
+}
+  
+  .Finput {
+    width:300px;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    margin-left:40px;
+    
+  }
+  
+  .Search {
+    padding: 10px;
+    width :100px;
+    background-color: #6B9080;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left:200px;
+    margin-top:40px;
+  }
+  
+  .Search:hover {
+    background-color: #B4654A;
+  }
+ 
+  
+  
